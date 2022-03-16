@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dnyaneshvn
-- 👀 I’m interested in Web Developing
+- 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Python language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
