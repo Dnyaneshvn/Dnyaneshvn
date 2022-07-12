@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Dnyaneshvn
+- 👋 Hi, I’m Dnyanesh Nimbalkar
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Python language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JAVA language
+- 📫 How to reach me .. follow me on Twitter : https://twitter.com/dnyaneshvn
 
 <!---
 Dnyaneshvn/Dnyaneshvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
