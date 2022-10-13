@@ -1,36 +1,44 @@
-<h1 align="center">👋 Hi, I'm <a href="https:linkedin.com/in/dnyanesh-nimbalkar-b83b38208/" target="_blank"> Dnyanesh Nimbalkar </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Java+Developer+%3A)" /> </h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dnyanesh Nimbalkar
+==========================================================================================================================================
 
-- 🌱 Learning Never Stops 🚀
+JAVA Developer
+--------------
 
-- 💬 Ask me about **Java, Python, MySQL**
-
-- 👨‍💻 Check out my personal portfolio : **<a href="https://dnyaneshvn.netlify.app/" target="_blank">Portfolio</a>**
-
-- 😄 Pronouns: He/His
-
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https:linkedin.com/in/dnyanesh-nimbalkar-b83b38208/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dvnimbalkar24@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.instagram.com/dnyaneshvn/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
- 
-</div>
-
-<h3 align="left">Web Tech Stack :</h3>
-<div align="left">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-
-</div>
-
-<h3 align="left">Languages :</h3>
-<div align="left">
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
- 
-</div>
+*   🌍  I'm based in India
+*   🖥️  See my portfolio at [My Portfolio](http://dnyaneshvn.netlify.com)
+*   ✉️  You can contact me at [me@dnyaneshnimbalkar.live](mailto:me@dnyaneshnimbalkar.live)
+*   🧠  I'm learning Flutter, DSA<a href="https://www.twitter.com/dnyaneshstwt" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/dnyaneshstwt?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a><a href="https://www.github.com/dnyaneshvn" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/dnyaneshvn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/dnyaneshvn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://dnyaneshnimbalkar.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.instagram.com/dnyaneshvn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/dnyanesh-nimbalkar-b83b38208" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/dnyaneshstwt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.youtube.com/c/UCWB1q4nII2xiEI_maZkds_Q" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/dnyaneshvn"><img src="https://github-readme-stats.vercel.app/api?username=dnyaneshvn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dnyaneshvn's GitHub stats" /></a><a
+                      href="http://www.github.com/dnyaneshvn"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=dnyaneshvn&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/dnyaneshvn"><img src="https://activity-graph.herokuapp.com/graph?username=dnyaneshvn&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <h3 align="left">Databases :</h3>
 <div align="left">
