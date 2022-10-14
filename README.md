@@ -7,7 +7,7 @@ JAVA Developer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://dnyaneshvn.netlify.com)
 * ✉️  You can contact me at [me@dnyaneshnimbalkar.live](mailto:me@dnyaneshnimbalkar.live)
-* 🧠  I'm learning Flutter, DSA
+* 🧠  I'm learning Flutter, Data Structures and Algorithms
 
 <a href="https://www.twitter.com/dnyaneshstwt" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/dnyaneshstwt?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
