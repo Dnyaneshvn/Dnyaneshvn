@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 --------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://dnyaneshvn.netlify.com)
 * ✉️  You can contact me at [dnyaneshvn.tech@gmail.com](mailto:me@dnyaneshnimbalkar.live)
 * 🧠  I'm learning JAVA, Data Structures and Algorithms, Flutter
 
@@ -14,7 +13,6 @@ src="https://img.shields.io/twitter/follow/dnyaneshstwt?logo=twitter&style=for-t
 src="https://img.shields.io/github/followers/dnyaneshvn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
