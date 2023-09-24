@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 --------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [dnyaneshvn.tech@gmail.com](mailto:me@dnyaneshnimbalkar.live)
-* 🧠  I'm learning JAVA, Data Structures and Algorithms, Flutter
+* ✉️  You can contact me at [dnyaneshvn.tech@gmail.com](mailto:dnyaneshvn.tech@gmail.com)
+* 🧠  I'm learning Data Structures & Algorithms and Flutter.
 
 
 ## 🌐 Socials:
