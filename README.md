@@ -34,13 +34,10 @@ Let's collaborate and create innovative solutions together!
 - 🔭 I’m currently working on [AIforDevs](https://github.com/AIforDevs)  
   
 
-- 🌱 I’m currently learning AI and ML  
+- 🌱 I’m currently learning AI and ML
   
 
-- ❓ Ask me about anything related to Flutter and FARM stack  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I keep the night shift switched on at all times   
 
 
 
