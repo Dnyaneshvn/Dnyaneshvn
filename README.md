@@ -31,7 +31,7 @@ Let's collaborate and create innovative solutions together!
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I'm currently working as a Flutter Developer at Tharasis 
+- 🔭 I'm currently working as a Flutter Development Intern at Tharasis 
   
 
 - 🌱 I’m currently learning AI and ML
