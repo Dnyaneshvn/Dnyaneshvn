@@ -18,9 +18,7 @@
 
 
 ### Glad to see you here!  
-I am a passionate Software Developer with a robust computer engineering foundation and ongoing undergraduate studies. My expertise lies in various programming languages and frameworks, with a particular focus on Dart and Flutter for mobile application development. I am dedicated to designing and developing intuitive user interfaces that enhance user experiences.
-
-I am not just a developer; I am a visionary who actively explores cutting-edge software development techniques, including AI/ML integration. My commitment is to deliver top-notch solutions that combine functionality with creativity. I am enthusiastic about engaging in collaborative opportunities that foster continuous professional advancement.
+I'm a dedicated Software Developer with a robust foundation in computer engineering. Specializing in Backend development, I bring hands-on expertise in FastAPI and Generative AI to the table. My proficiency extends to multiple programming languages, with a particular strength in Core Java.
 
 Let's collaborate and create innovative solutions together!  
   
