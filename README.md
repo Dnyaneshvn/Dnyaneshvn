@@ -11,9 +11,9 @@
 
 
 ### Glad to see you here!  
-I'm a dedicated Software Developer with a robust foundation in computer engineering. Specializing in Backend development, I bring hands-on expertise in FastAPI and Generative AI to the table. My proficiency extends to multiple programming languages, with a particular strength in Core Java.
+I am a dedicated Software Developer with a solid foundation in computer engineering, specializing in Backend development and Generative AI. With hands-on expertise in FastAPI and a proven track record of building innovative AI applications, I bring a unique blend of technical prowess and creative problem-solving skills to every project.
 
-Let's collaborate and create innovative solutions together!  
+Let's collaborate to create cutting-edge solutions and push the boundaries of technology together! 
   
 
 <br/>  
