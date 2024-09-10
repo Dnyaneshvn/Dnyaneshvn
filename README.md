@@ -12,6 +12,8 @@ I am a dedicated Software Developer with a solid foundation in computer engineer
 
 Let's collaborate to create cutting-edge solutions and push the boundaries of technology together! 
   
-<br/>  
+<br/>
+
 ![](https://visitcount.itsvg.in/api?id=dnyaneshvn&icon=2&color=12)
+
 <br />
