@@ -8,9 +8,11 @@
 </a>  
 
 ### Glad to see you here!  
-I am a dedicated Software Developer with a solid foundation in computer engineering, specializing in Backend development and Generative AI. With hands-on expertise in FastAPI and a proven track record of building innovative AI applications, I bring a unique blend of technical prowess and creative problem-solving skills to every project.
+I am a passionate Software Developer with a strong foundation in computer engineering, specializing in Backend Development and Generative AI. With hands-on experience using FastAPI and LangGraph, I have successfully built scalable, high-performance systems and AI-driven applications, including real-time chatbots and advanced data retrieval systems.
 
-Let's collaborate to create cutting-edge solutions and push the boundaries of technology together! 
+I thrive in fast-paced, tech-driven environments, where I can apply my technical expertise in AI, prompt engineering, and backend services to solve complex challenges. My approach combines creative problem-solving with a keen focus on building robust, scalable solutions that push the boundaries of technology.
+
+Let’s connect and collaborate to create innovative, future-ready products!
   
 <br/>
 
